@@ -1,4 +1,10 @@
-## Hi there 👋
+## **Seja bem vindo** ☯️
+
+### sou aluno do _alura_ e aqui você vera meus projetos
+
+### meu e-mail 📧
+-0000110203258xsp@al.educacao.sp.gov.br
+![](https://media.tenor.com/n8GgPklh4o0AAAAM/neymar.gif)
 
 <!--
 **vitorhenriquedossantos/vitorhenriquedossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
